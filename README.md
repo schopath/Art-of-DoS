@@ -1,3 +1,3 @@
 # Art-of-DoS
 
-Notes and payloads about Denial of Service
+Notes and payloads about Denial of Service Attack
