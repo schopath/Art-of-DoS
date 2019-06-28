@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE lolz [
+  <!ENTITY lol1 "&lol2;">
+  <!ENTITY lol2 "&lol1;">
+]>
+<lolz>&lol1;</lolz>
